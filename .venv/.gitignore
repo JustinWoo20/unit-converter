@@ -1,0 +1,18 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore IDE/editor folders
+.idea/
+.vscode/
+
+# Ignore environment/config files
+.env
+
+# Optional: Ignore logs, coverage, etc.
+*.log
+*.sqlite3
+*.db
